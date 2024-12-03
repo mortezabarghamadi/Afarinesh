@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\posheh darsi\\c#\\Afarinesh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3EBE50-90E1-4B65-A24A-0D889AC72453}|Afarinesh\\Afarinesh.csproj|d:\\posheh darsi\\c#\\afarinesh\\afarinesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3EBE50-90E1-4B65-A24A-0D889AC72453}|Afarinesh\\Afarinesh.csproj|solutionrelative:afarinesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3EBE50-90E1-4B65-A24A-0D889AC72453}|Afarinesh\\Afarinesh.csproj|d:\\posheh darsi\\c#\\afarinesh\\afarinesh\\classes\\mysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3EBE50-90E1-4B65-A24A-0D889AC72453}|Afarinesh\\Afarinesh.csproj|solutionrelative:afarinesh\\classes\\mysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mysort.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Afarinesh\\Afarinesh\\classes\\Mysort.cs",
+              "RelativeDocumentMoniker": "Afarinesh\\classes\\Mysort.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Afarinesh\\Afarinesh\\classes\\Mysort.cs",
+              "RelativeToolTip": "Afarinesh\\classes\\Mysort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:40:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Afarinesh\\Afarinesh\\Program.cs",
+              "RelativeDocumentMoniker": "Afarinesh\\Program.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Afarinesh\\Afarinesh\\Program.cs",
+              "RelativeToolTip": "Afarinesh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:40:00.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

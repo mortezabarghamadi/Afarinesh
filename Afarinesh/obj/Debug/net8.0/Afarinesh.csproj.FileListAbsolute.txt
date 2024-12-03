@@ -1,0 +1,14 @@
+D:\posheh darsi\c#\Afarinesh\Afarinesh\bin\Debug\net8.0\Afarinesh.exe
+D:\posheh darsi\c#\Afarinesh\Afarinesh\bin\Debug\net8.0\Afarinesh.deps.json
+D:\posheh darsi\c#\Afarinesh\Afarinesh\bin\Debug\net8.0\Afarinesh.runtimeconfig.json
+D:\posheh darsi\c#\Afarinesh\Afarinesh\bin\Debug\net8.0\Afarinesh.dll
+D:\posheh darsi\c#\Afarinesh\Afarinesh\bin\Debug\net8.0\Afarinesh.pdb
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\Afarinesh.GeneratedMSBuildEditorConfig.editorconfig
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\Afarinesh.AssemblyInfoInputs.cache
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\Afarinesh.AssemblyInfo.cs
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\Afarinesh.csproj.CoreCompileInputs.cache
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\Afarinesh.dll
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\refint\Afarinesh.dll
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\Afarinesh.pdb
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\Afarinesh.genruntimeconfig.cache
+D:\posheh darsi\c#\Afarinesh\Afarinesh\obj\Debug\net8.0\ref\Afarinesh.dll
